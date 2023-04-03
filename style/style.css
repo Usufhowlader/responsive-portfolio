@@ -6,7 +6,7 @@
 /* header and navigation styles */
 .header{
   background-color: #FFF8F3;
-  background-image: url(../Image/Image/header_bg.png), url(../Image/Image/developer.png);
+  background-image: url(../image/image/header_bg.png), url(../image/image/developer.png);
   background-repeat: no-repeat;
   background-position: bottom right, left;
 }
@@ -125,7 +125,7 @@ justify-content: space-around;
     padding: 30px;
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06) ;
     border-radius: 5px;
-    background-color: rgb(223, 29, 29);
+    background-color: rgba(223, 29, 29, 0.623);
   }
   section div img{
     height: 25px;
